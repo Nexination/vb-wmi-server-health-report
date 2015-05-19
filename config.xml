@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+    <user>admin</user>
+    <password>pwd1234</password>
+    <name>192.168.1.1</name>
+    <report>1</report>
+</server>
