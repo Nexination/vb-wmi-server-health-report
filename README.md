@@ -3,7 +3,8 @@ A VB script that collects server information over WMI and assembles it in a Word
 There is an example config file include: *config.xml*
 This VB program requires Microsoft Office to funtion, as it fills out an Office document with a report of servers.
 
-How to use:
+**How to use:**
+
 All the servers listed in the config file will be checked according to their hardware and software health.
 For every server checked, the data will be appended to the word document.
 
